@@ -1,0 +1,18 @@
+.st0{fill:#49FEA6;}
+.st1{fill:#FFFFFF;}
+
+.logo {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.animal > path {
+  fill: none;
+  stroke: black;
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  filter: invert(99%) sepia(97%) saturate(1%) hue-rotate(111deg) brightness(105%) contrast(100%);
+}
